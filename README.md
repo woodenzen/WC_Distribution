@@ -3,19 +3,19 @@
 
 ## Installation
 Open a terminal
-`cd` to where you want the app to live.
+`cd` to where you want the app to live.  
 
 Clone repository
-`git clone https://github.com/woodenzen/wc.git`
+`git clone https://github.com/woodenzen/wc.git`  
 
 Install Poetry if needed
-`pip install poetry`
+`pip install poetry`  
 
 Create virtual environment and load dependancies
-`poetry install`
+`poetry install`  
 
 ## Usage 
-This is a Jupyter Notebook
+This is a Jupyter Notebook. Just open and select Run All.
 
 ### Sample Output
 ![Bar Graph](media/image.png)
