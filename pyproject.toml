@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "wc"
+version = "0.1.0"
+description = "Garph Word Count"
+authors = ["Will Simpson <will@kestrelcreek.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+matplotlib = "^3.7.2"
+pandas = "^2.0.3"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.24.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
