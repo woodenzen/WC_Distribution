@@ -1,12 +1,24 @@
-# Title
+# Sorting notes by word count
 
 
 ## Installation
+Open a terminal
+`cd` to where you want the app to live.
 
+Clone repository
+`git clone https://github.com/woodenzen/wc.git`
 
-## Usage (Example)
+Install Poetry if needed
+`pip install poetry`
+
+Create virtual environment and load dependancies
+`poetry install`
+
+## Usage 
+This is a Jupyter Notebook
+
 ### Sample Output
-
+![Bar Graph](media/image.png)
 
 ## Licience
 [MIT](./LICENSE.md)
