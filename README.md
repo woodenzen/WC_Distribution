@@ -1,9 +1,6 @@
+![](media/kestrelcreek-logo-3.png)  
+  
 # Sorting notes by word count  
-  
-  
-
-![](media/kestrelcreek-logo-3.png)
-
 ## ★ Installation
 Open a terminal
 `cd` to where you want the app to live.  
